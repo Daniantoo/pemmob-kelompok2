@@ -1,4 +1,4 @@
-# Kelompok 2_050Dara Lembayung Kinasih_058Dion Danianto_073Putri Rizki Alifia
+# Laporan Pemrograman Mobile
 
 Tugas Kelompok 2 
 
@@ -6,4 +6,4 @@ Tugas Kelompok 2
 2. Dion Danianto 22091397053 2022B
 3. Putri Rizki Alifia 22091397073 2022B
 
-...
+Link Laporan Pemrograman Mobile Kelompok 2
