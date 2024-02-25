@@ -13,7 +13,7 @@ void main() {
         ),
         body: const Center(
           child: Image(
-            image: AssetImage('images/camera.png'),
+            image: AssetImage('images/logo.png'),
           ),
         ),
         backgroundColor: const Color(0xFFE1BE66),
