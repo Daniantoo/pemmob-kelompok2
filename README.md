@@ -1,16 +1,9 @@
-# app_pemmob_kelompok2
+# Kelompok 2_050Dara Lembayung Kinasih_058Dion Danianto_073Putri Rizki Alifia
 
-A new Flutter project.
+Tugas Kelompok 2 
 
-## Getting Started
+1. Dara Lembayung Kinasih 22091397050 2022B
+2. Dion Danianto 22091397053 2022B
+3. Putri Rizki Alifia 22091397073 2022B
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+...
