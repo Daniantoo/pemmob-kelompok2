@@ -7,3 +7,4 @@ Tugas Kelompok 2
 3. Putri Rizki Alifia 22091397073 2022B
 
 Link Laporan Pemrograman Mobile Kelompok 2
+https://drive.google.com/drive/folders/1SO_y14UoJkh6AwTpPB8HNP-fqurwitDO
