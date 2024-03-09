@@ -8,3 +8,4 @@ Tugas Kelompok 2
 
 Link Laporan Pemrograman Mobile Kelompok 2
 https://drive.google.com/drive/folders/1SO_y14UoJkh6AwTpPB8HNP-fqurwitDO
+https://drive.google.com/file/d/1Mlaxn-UNgZZUYQj6LbPgP1P2RWd1dw3c/view?usp=drive_link
