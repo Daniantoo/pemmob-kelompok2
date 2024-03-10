@@ -1,11 +1,16 @@
-# Laporan Pemrograman Mobile
+# app_pemmob_kelompok2
 
-Tugas Kelompok 2 
+A new Flutter project.
 
-1. Dara Lembayung Kinasih 22091397050 2022B
-2. Dion Danianto 22091397053 2022B
-3. Putri Rizki Alifia 22091397073 2022B
+## Getting Started
 
-Link Laporan Pemrograman Mobile Kelompok 2
+This project is a starting point for a Flutter application.
 
-https://drive.google.com/file/d/1Mlaxn-UNgZZUYQj6LbPgP1P2RWd1dw3c/view?usp=drive_link
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
